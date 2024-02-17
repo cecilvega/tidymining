@@ -1,0 +1,7 @@
+pandas
+polars
+dagster
+pyarrow
+numpy
+notebook
+black
